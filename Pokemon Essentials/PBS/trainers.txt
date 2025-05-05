@@ -1,9 +1,20 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
+[RIVAL1,Gail,0]
+LoseText = That was fun!
+Pokemon = HOPPIP,5
+#-------------------------------
+[RIVAL1,Gail,1]
+LoseText = That was fun!
+Pokemon = CHATOT,5
+#-------------------------------
+[RIVAL1,Gail,2]
+LoseText = That was fun!
+Pokemon = DUCKLETT,5
+#-------------------------------
 [YOUNGSTER,Pat]
 LoseText = What!!!!! This game is rigged!
-Pokemon = DIGLETT,10
-Pokemon = BONSLY,11
+Pokemon = NATU,5
 #-------------------------------
 [CAMPER,Liam]
 LoseText = A very good battle, indeed!
