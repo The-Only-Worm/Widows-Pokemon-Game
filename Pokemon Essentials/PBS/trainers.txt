@@ -1,5 +1,10 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
+[YOUNGSTER,Pat]
+LoseText = What!!!!! This game is rigged!
+Pokemon = DIGLETT,10
+Pokemon = BONSLY,11
+#-------------------------------
 [CAMPER,Liam]
 LoseText = A very good battle, indeed!
 Pokemon = DIGLETT,10
