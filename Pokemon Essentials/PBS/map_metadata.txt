@@ -153,8 +153,10 @@ BattleBack = field
 MapSize = 2,1101
 #-------------------------------
 [032]   # Cunt Town
+Name = Cunt Town
 Outdoor = true
 ShowArea = true
+BattleBack = 
 #-------------------------------
 [034]   # Ice Cave
 Name = Route 3
@@ -210,6 +212,7 @@ MapPosition = 0,11,7
 MapSize = 1,111
 #-------------------------------
 [042]   # Route 1
+Name = Route 1
 Outdoor = true
 ShowArea = true
 #-------------------------------
@@ -411,5 +414,6 @@ Outdoor = true
 ShowArea = true
 #-------------------------------
 [077]   # Route 2
+Name = Route 2
 Outdoor = true
 ShowArea = true

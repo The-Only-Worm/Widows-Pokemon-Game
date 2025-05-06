@@ -2,42 +2,42 @@
 #-------------------------------
 [RIVAL1,Gail,0]
 LoseText = That was fun!
-Pokemon = HOPPIP,5
-#-------------------------------
-[RIVAL1,Gail,1]
-LoseText = That was fun!
 Pokemon = CHATOT,5
-#-------------------------------
-[RIVAL1,Gail,2]
-LoseText = That was fun!
-Pokemon = DUCKLETT,5
 #-------------------------------
 [YOUNGSTER,Pat]
 LoseText = What!!!!! This game is rigged!
-Pokemon = NATU,5
+Pokemon = HOPPIP,5
 #-------------------------------
 [CAMPER,Liam]
 LoseText = A very good battle, indeed!
 Pokemon = DIGLETT,10
 Pokemon = BONSLY,11
 #-------------------------------
-[LEADER_Brock,Brock]
-Items = FULLRESTORE,FULLRESTORE
-LoseText = Very good.
-Pokemon = GEODUDE,12
-    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
+[LEADER_Brock,Batya,0]
+Items = POTION
+LoseText = That was graet!
+Pokemon = MEDITITE,12
+    Moves = ROCKSMASH,POUND,CONFUSION
     AbilityIndex = 0
-    Gender = male
     IV = 20,20,20,20,20,20
-Pokemon = ONIX,14
-    Name = Rocky
-    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+Pokemon = TIMBURR,16
+    Moves = ROCKTHROW,POUND,BULKUP,ROCKSMASH
+    AbilityIndex = 1
+    Item = ORANBERRY
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[LEADER_Brock,Batya,1]
+Items = POTION
+LoseText = That was graet!
+Pokemon = MEDITITE,12
+    Moves = ROCKSMASH,POUND,CONFUSION
     AbilityIndex = 0
-    Item = SITRUSBERRY
-    Gender = male
     IV = 20,20,20,20,20,20
-    Shiny = true
-    Ball = HEAVYBALL
+Pokemon = TIMBURR,16
+    Moves = ROCKTHROW,POUND,BULKUP,ROCKSMASH
+    AbilityIndex = 1
+    Item = ORANBERRY
+    IV = 20,20,20,20,20,20
 #-------------------------------
 [TEAMROCKET_M,Grunt,1]
 LoseText = You're too good for me!
