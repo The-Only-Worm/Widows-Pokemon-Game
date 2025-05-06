@@ -22,7 +22,7 @@ BaseMoney = 60
 #-------------------------------
 [RIVAL1]
 Name = Rival
-Gender = Male
+Gender = Female
 BaseMoney = 16
 #-------------------------------
 [RIVAL2]
