@@ -156,7 +156,6 @@ MapSize = 2,1101
 Name = Cunt Town
 Outdoor = true
 ShowArea = true
-BattleBack = 
 #-------------------------------
 [034]   # Ice Cave
 Name = Route 3
@@ -417,3 +416,18 @@ ShowArea = true
 Name = Route 2
 Outdoor = true
 ShowArea = true
+#-------------------------------
+[078]   # Eerie Lake
+Outdoor = true
+ShowArea = true
+Weather = Rain,100
+#-------------------------------
+[079]   # Eerie Gym
+Name = 
+#-------------------------------
+[083]   # Gaping Hole 1F
+ShowArea = true
+#-------------------------------
+[084]   # Gaping Hole 1BF
+ShowArea = true
+DarkMap = true
