@@ -418,16 +418,31 @@ Outdoor = true
 ShowArea = true
 #-------------------------------
 [078]   # Eerie Lake
+Name = Eerie Lake
 Outdoor = true
 ShowArea = true
 Weather = Rain,100
 #-------------------------------
 [079]   # Eerie Gym
-Name = 
+Name = Eerie Gym
 #-------------------------------
 [083]   # Gaping Hole 1F
+Name = Gaping Hole 1F
 ShowArea = true
 #-------------------------------
 [084]   # Gaping Hole 1BF
+Name = Gaping Hole 1BF
 ShowArea = true
 DarkMap = true
+#-------------------------------
+[086]   # Route 3
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[089]   # Imogen Town
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[095]   # Route 4
+Outdoor = true
+ShowArea = true

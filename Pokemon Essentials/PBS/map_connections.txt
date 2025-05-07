@@ -28,19 +28,23 @@
 31,South,32,23,North,0
 # Route 3 (31) - Ingido Plateau outside (35)
 31,West,0,35,East,10
+# Cunt Town (32) - Route 1 (42)
+32,South,4,42,North,0
 # Ingido Plateau outside (35) - Route 4 (39)
 35,West,11,39,East,0
 # Route 5 (41) - Route 4 Cycling Road (40)
 41,North,0,40,South,0
 # Route 5 (41) - Route 6 Cycling Road (45)
 41,South,6,45,North,0
+# Bridgeport (76) - Route 1 (42)
+76,North,0,42,South,1
 # Route 7 (47) - Battle Frontier (52)
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Cunt Town (32) - Route 1 (42)
-32,South,4,42,North,0
-# Bridgeport (76) - Route 1 (42)
-76,North,0,42,South,1
 # Route 2 (77) - Bridgeport (76)
 77,East,27,76,West,0
+# Imogen Town (89) - Route 3 (86)
+89,North,6,86,South,0
+# Route 4 (95) - Imogen Town (89)
+95,East,19,89,West,0

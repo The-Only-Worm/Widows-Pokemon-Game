@@ -6144,8 +6144,11 @@ Description = When used, it restores any stat changes of an ally Pokémon.
 [ABILITYURGE]
 Name = Ability Urge
 NamePlural = Ability Urges
+PortionName = ???
+PortionNamePlural = ???
 Pocket = 7
 Price = 0
+BPPrice = 0
 Flags = Fling_30
 Description = When used, it activates the Ability of an ally Pokémon.
 #-------------------------------
