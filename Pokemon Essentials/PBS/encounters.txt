@@ -1,4 +1,4 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [032] # Cunt Town
 Water,20
@@ -18,25 +18,23 @@ SuperRod
     4,FINNEON,15,18
     1,DRATINI,17
 #-------------------------------
-[034] # Ice Cave
-Cave,5
-    40,SWINUB,16,18
-    20,SNEASEL,14,16
-    20,SNORUNT,12,15
-    10,SMOOCHUM,11,14
-    10,SNOVER,14
-#-------------------------------
-[039] # Route 4
-Land,21
-    50,SHELLOS_1,12,15
-    40,GRIMER,13,15
-    10,MURKROW,12,14
-#-------------------------------
-[041] # Route 5
-Land,21
-    50,GRIMER,13,15
-    40,SPEAROW,13,16
-    10,SLUGMA,13,14
+[076] # Bridgeport
+Water,20
+    40,SHELLDER,15,19
+    40,TENTACOOL,15,19
+    5,BUIZEL,15,17
+    5,SLOWPOKE,14,16
+OldRod
+    70,FEEBAS,5,8
+GoodRod
+    60,MAGIKARP,16,20
+    20,FEEBAS,16,20
+    20,POLIWAG,17,18
+SuperRod
+    50,CARVANHA,16,17
+    40,GOLDEEN,16,18
+    4,FINNEON,15,18
+    1,DRATINI,17
 #-------------------------------
 [042] # Route 1
 Land,21
@@ -59,140 +57,6 @@ SuperRod
     40,GOLDEEN,16,18
     4,FINNEON,15,18
 #-------------------------------
-[044] # Route 6
-Land,21
-    50,SHELLOS_1,12,15
-    40,GRIMER,13,15
-    10,MURKROW,12,14
-#-------------------------------
-[047] # Route 7
-Land,21
-    50,SHELLOS,12,15
-    30,BIDOOF,14,17
-    10,MURKROW,12,14
-    10,WURMPLE,9,12
-RockSmash,50
-    90,NOSEPASS,13,14
-    10,GEODUDE,12,15
-#-------------------------------
-[049] # Rock Cave 1F
-Cave,5
-    20,MAGNETON,14,17
-    20,MAGNETON,14,16
-    20,NOSEPASS,13,14
-    20,NOSEPASS,14,15
-    10,GEODUDE,13,15
-    10,MAWILE,14,16
-#-------------------------------
-[050] # Rock Cave B1F
-Cave,5
-    20,MAGNETON,14,17
-    20,MAGNETON,14,16
-    20,NOSEPASS,13,14
-    20,NOSEPASS,14,15
-    10,BURMY,14,16
-    10,GEODUDE,13,15
-#-------------------------------
-[051] # Dungeon
-Cave,5
-    20,CHINGLING,1
-    20,CLEFFA,1
-    20,IGGLYBUFF,1
-    20,PICHU,1
-    10,RIOLU,1
-    10,TYROGUE,1
-#-------------------------------
-[066] # Safari Zone outside
-Land,21
-    20,ABRA,12,15
-    20,DODUO,13,15
-    20,NIDORANfE,15,16
-    20,NIDORANmA,15,16
-    10,HOPPIP,13,17
-    10,TANGELA,14,16
-#-------------------------------
-[068] # Safari Zone
-Land,21
-    20,EXEGGCUTE,15,18
-    20,RHYHORN,16,18
-    10,AIPOM,14,17
-    10,GIRAFARIG,16,17
-    10,VENONAT,15,18
-    10,VENONAT,15,17
-    5,HERACROSS,15,17
-    5,TAUROS,15,16
-    4,PINSIR,16
-    4,SCYTHER,16
-    1,CHANSEY,17
-    1,KANGASKHAN,19
-Water,2
-    60,PSYDUCK,16,18
-    30,MARILL,15,18
-    5,BUIZEL,15,17
-    5,SLOWPOKE,14,16
-OldRod
-    70,MAGIKARP,17,21
-    30,MAGIKARP,17,20
-GoodRod
-    60,MAGIKARP,16,20
-    20,FEEBAS,16,20
-    20,POLIWAG,17,18
-SuperRod
-    40,GOLDEEN,16,18
-    40,REMORAID,17,19
-    15,CARVANHA,16,17
-    4,FINNEON,15,18
-    1,DRATINI,17
-#-------------------------------
-[069] # Route 8
-Land,21
-    20,MAREEP,16,18
-    20,ODDISH,15,17
-    13,BONSLY,14,16
-    10,DITTO,16,18
-    10,DITTO,15,17
-    10,LOTAD,15,18
-    10,LOTAD,15,17
-    5,BONSLY,14,17
-    1,BONSLY,15
-    1,BONSLY,15,16
-Water,2
-    60,TENTACOOL,14,19
-    30,MANTYKE,15,16
-    10,REMORAID,14,16
-OldRod
-    100,MAGIKARP,16,19
-GoodRod
-    60,BARBOACH,17,18
-    20,KRABBY,15,16
-    20,SHELLDER,16,19
-SuperRod
-    40,CHINCHOU,17,19
-    40,QWILFISH,16,19
-    15,CORSOLA,15,18
-    5,STARYU,15,17
-#-------------------------------
-[070] # Route 8 underwater
-Land,21
-    20,CHINCHOU,17,21
-    20,CLAMPERL,18,20
-    20,SHELLDER,18,20
-    10,CLAMPERL,18,19
-    10,CORSOLA,17,20
-    10,RELICANTH,16,19
-    10,SHELLDER,18,19
-#-------------------------------
-[075] # Tiall Region
-Land,21
-    20,GEODUDE_1,11,14
-    20,RATTATA_1,11,14
-    10,CUBONE,11,14
-    10,DIGLETT_1,11,14
-    10,MEOWTH_1,11,14
-    10,PIKACHU,11,14
-    10,SANDSHREW_1,11,14
-    10,VULPIX_1,11,14
-#-------------------------------
 [077] # Route 2
 Land,30
     30,SPINARAK,5,9
@@ -206,16 +70,72 @@ Land,30
 Cave,10
     30,ROLYCOLY,5,9
     30,ZUBAT,5,9
-    20,ARON,5,9
+    20,SIZZLIPEDE,5,9
     10,ROCKRUFF,5,9
     5,CUBONE,5,10
     1,PANCHAM,6,10
 #-------------------------------
 [084] # Gaping Hole B1F
 Cave,5
-    30,CRUSTLE,20,27
-    30,NACLSTACK,20,27
-    20,RHYHORN,20,27
-    10,GLIMMET,20,27
-    5,NOIBAT,20,27
+    30,WHISMUR,9,14
+    30,NACLI,9,14
+    20,ZUBAT,9,14
+    10,DWEBBLE,9,14
+    5,NOIBAT,10,15
     1,FERROSEED,25,30
+#-------------------------------
+[092] # Rust Cave
+Cave,5
+    30,ARON,15,19
+    30,STUNFISK_1,15,19
+    20,FERROSEED,15,19
+    10,BRONZOR,15,19
+    5,MAWILE,16,20
+    1,WYNAUT,16,20
+Water,5
+    50,TENTACOOL,30,35
+    50,TYNAMO,30,35
+OldRod
+    50,BARBOACH,16,18
+    50,TYNAMO,15,19
+GoodRod
+    60,EELEKTRIK,25,30
+    50,WHISCASH,25,30
+SuperRod
+    50,EELEKTROSS,37,42
+    50,WHISCASH,37,42
+#-------------------------------
+[086] # Route 3
+Land,21
+    30,BUIZEL,17,22
+    20,BUNEARY,17,22
+    20,WOOPER_1,17,22
+    20,CHEWTLE,17,22
+    5,SLOWPOKE,18,23
+    1,SEVIPER,18,23
+Water,2
+    50,PSYDUCK,14,16
+    50,SURSKIT,14,16
+OldRod
+    70,FEEBAS,17,22
+    40,REMORAID,17,22
+GoodRod
+    20,FEEBAS,25,30
+    20,POLIWHIRL,25,30
+SuperRod
+    40,SEAKING,37,42
+    4,LUMINEON,37,42
+#---------------------------------
+[078] #Eerie Lake
+Water,2
+    50,MARILL,14,16
+    50,BASCULIN,14,16
+OldRod
+    70,CORPHISH,17,22
+    40,MARILL,17,22
+GoodRod
+    20,VELUZA,25,30
+    20,CRAWDAUNT,25,30
+SuperRod
+    20,AZUMARILL,37,42
+    40,CRAWDAUNT,37,42
