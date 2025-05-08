@@ -6334,6 +6334,22 @@ Price = 0
 Flags = KeyItem
 Description = A sack used to gather and hold volcanic ash.
 #-------------------------------
+[METROCARD]
+Name = MetroCard
+NamePlural = MetroCards
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A card for getting around the NYC Subway.
+#-------------------------------
+[TRAINPASS]
+Name = Train Pass
+NamePlural = Train Passes
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A pass to take the train to NYC.
+#-------------------------------
 [SILPHSCOPE]
 Name = Silph Scope
 NamePlural = Silph Scopes
