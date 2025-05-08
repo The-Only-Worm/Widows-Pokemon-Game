@@ -40,7 +40,7 @@ SuperRod
 Land,21
     30,SENTRET,2,5
     20,CHERUBI,2,5
-    20,SCATTERBUG,2,5
+    20,BLIPBUG,2,5
     20,ZIGZAGOON,2,4
     5,HOOTHOOT,3,5
     1,SHINX,5,6
@@ -64,13 +64,13 @@ Land,30
     20,SKIDDO,5,9
     20,STARLY,5,9
     5,PONYTA_1,5,10
-    1,BONSLY,6,10
+    1,JOLTIK,6,10
 #-------------------------------
 [083] # Gaping Hole 1F
 Cave,10
     30,ROLYCOLY,5,9
     30,ZUBAT,5,9
-    20,SIZZLIPEDE,5,9
+    20,VULPIX,5,9
     10,ROCKRUFF,5,9
     5,CUBONE,5,10
     1,PANCHAM,6,10
@@ -78,20 +78,20 @@ Cave,10
 [084] # Gaping Hole B1F
 Cave,5
     30,WHISMUR,9,14
-    30,NACLI,9,14
+    30,ROLYCOLY,9,14
     20,ZUBAT,9,14
-    10,DWEBBLE,9,14
+    10,MEDITITE,9,14
     5,NOIBAT,10,15
-    1,FERROSEED,25,30
+    1,FERROSEED,10,15
 #-------------------------------
 [092] # Rust Cave
 Cave,5
     30,ARON,15,19
-    30,STUNFISK_1,15,19
+    30,YAMASK_1,15,19
     20,FERROSEED,15,19
     10,BRONZOR,15,19
-    5,MAWILE,16,20
-    1,WYNAUT,16,20
+    5,SIZZLEPEDE,16,20
+    1,MAWILE,16,20
 Water,5
     50,TENTACOOL,30,35
     50,TYNAMO,30,35
@@ -108,17 +108,17 @@ SuperRod
 [086] # Route 3
 Land,21
     30,BUIZEL,17,22
-    20,BUNEARY,17,22
+    20,COMBEE,17,22
     20,WOOPER_1,17,22
-    20,CHEWTLE,17,22
-    5,SLOWPOKE,18,23
+    20,APPLIN,17,22
+    5,SALANDIT,18,23
     1,SEVIPER,18,23
 Water,2
     50,PSYDUCK,14,16
     50,SURSKIT,14,16
 OldRod
-    70,FEEBAS,17,22
-    40,REMORAID,17,22
+    70,BUIZEL,17,22
+    40,SLOWPOKE,17,22
 GoodRod
     20,FEEBAS,25,30
     20,POLIWHIRL,25,30
@@ -139,3 +139,24 @@ GoodRod
 SuperRod
     20,AZUMARILL,37,42
     40,CRAWDAUNT,37,42
+#-------------------------------
+[095] # Route 4
+Land,21
+    30,BUIZEL,17,22
+    20,TROPIUS,17,22
+    20,WOOPER_1,17,22
+    20,CHEWTLE,17,22
+    5,SLOWPOKE,18,23
+    1,SEVIPER,18,23
+Water,2
+    50,PSYDUCK,14,16
+    50,SURSKIT,14,16
+OldRod
+    70,BUIZEL,17,22
+    40,SLOWPOKE,17,22
+GoodRod
+    20,FEEBAS,25,30
+    20,POLIWHIRL,25,30
+SuperRod
+    40,SEAKING,37,42
+    4,LUMINEON,37,42

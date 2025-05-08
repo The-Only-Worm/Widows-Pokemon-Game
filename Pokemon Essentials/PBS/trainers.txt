@@ -1,18 +1,51 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
-#-------------------------------
+#------------------------------- CuntTown Trainers
 [RIVAL1,Gail,0]
 LoseText = That was fun!
 Pokemon = CHATOT,5
-#-------------------------------
+#------------------------------- Route 1 Trainers
 [YOUNGSTER,Pat]
 LoseText = What!!!!! This game is rigged!
-Pokemon = HOPPIP,5
+Pokemon = CHERUBI,5
 #-------------------------------
 [CAMPER,Liam]
 LoseText = A very good battle, indeed!
-Pokemon = DIGLETT,10
-Pokemon = BONSLY,11
+Pokemon = SENTRET,4
+Pokemon = STARLY,7
 #-------------------------------
+[LASS,Carrie]
+LoseText = Boots!
+Pokemon = HOOTHOOT,4
+Pokemon = HOOTHOOT,4
+Pokemon = WHISMUR,5
+#-------------------------------
+[BUGCATCHER,Jules]
+LoseText = My bugs!
+Pokemon = BLIPBUG,5
+Pokemon = JOLTIK,4
+Pokemon = BLIPBUG,5
+Pokemon = SPINARAK,5
+Pokemon = COMBEE,8
+#-------------------------------
+[LASS,Jenny]
+LoseText = Slain...
+Pokemon = FEEBAS,4
+Pokemon = CHERUBI,4
+Pokemon = VULPIX,6
+#-------------------------------
+[YOUNGSTER,Freddy]
+LoseText = Oof...
+Pokemon = ZIGZAGOON,3
+Pokemon = PANCHAM,8
+#-------------------------------
+[BUGCATCHER,Cole]
+LoseText = Dottler No!!!
+Pokemon = DOTTLER,10
+#------------------------------- Route 2 Trainers
+[BUGCATCHER,Cole]
+LoseText = Dottler No!!!
+Pokemon = DOTTLER,10
+#------------------------------- Eerie Lake Trainers
 [LEADER_Brock,Batya,0]
 Items = POTION
 LoseText = That was graet!
@@ -38,97 +71,3 @@ Pokemon = TIMBURR,16
     AbilityIndex = 1
     Item = ORANBERRY
     IV = 20,20,20,20,20,20
-#-------------------------------
-[TEAMROCKET_M,Grunt,1]
-LoseText = You're too good for me!
-Pokemon = WEEPINBELL,21
-    Shadow = true
-#-------------------------------
-[TEAMROCKET_F,Grunt,1]
-LoseText = You're too good for me!
-Pokemon = BURMY,19
-Pokemon = WINGULL,19
-Pokemon = ELECTABUZZ,20
-    Shadow = true
-#-------------------------------
-[YOUNGSTER,Ben]
-LoseText = Aww, I lost.
-Pokemon = RATTATA,11
-Pokemon = EKANS,11
-#-------------------------------
-[CAMPER,Jeff]
-LoseText = A very good battle, indeed!
-Pokemon = SPEAROW,16
-Pokemon = SENTRET,16
-#-------------------------------
-[CAMPER,Jeff,1]
-LoseText = You beat me again!
-Pokemon = FEAROW,29
-Pokemon = FURRET,29
-#-------------------------------
-[PICNICKER,Susie]
-LoseText = Defeated! Oh my!
-Pokemon = MEOWTH,18
-#-------------------------------
-[PICNICKER,Susie,1]
-LoseText = Defeated! Oh my!
-Pokemon = PERSIAN,32
-#-------------------------------
-[HIKER,Ford]
-LoseText = You're too good for me!
-Pokemon = MACHOP,19
-#-------------------------------
-[FISHERMAN,Andrew]
-LoseText = Washed out!
-Pokemon = MAGIKARP,14
-Pokemon = MAGIKARP,18
-#-------------------------------
-[BEAUTY,Bridget]
-LoseText = My Skitty!
-Pokemon = SKITTY,18
-#-------------------------------
-[LASS,Crissy]
-LoseText = You didn't have to win so convincingly!
-Pokemon = PLUSLE,17
-Pokemon = MINUN,17
-#-------------------------------
-[COOLCOUPLE,Alice & Bob]
-LoseText = Our teamwork failed!
-Pokemon = TURTWIG,19
-Pokemon = CHIMCHAR,19
-#-------------------------------
-[POKEMONTRAINER_May,May]
-LoseText = ...
-Pokemon = COMBUSKEN,19
-#-------------------------------
-[SWIMMER2_F,Ariel]
-LoseText = Washed out!
-Pokemon = STARYU,15
-Pokemon = GOLDEEN,11
-#-------------------------------
-[RIVAL1,Blue]
-LoseText = Not too shabby.
-Pokemon = PIDGEOTTO,17
-Pokemon = RATTATA,15
-Pokemon = BULBASAUR,18
-#-------------------------------
-[RIVAL1,Blue,1]
-LoseText = Not too shabby.
-Pokemon = PIDGEOTTO,17
-Pokemon = RATTATA,15
-Pokemon = CHARMANDER,18
-#-------------------------------
-[RIVAL1,Blue,2]
-LoseText = Not too shabby.
-Pokemon = PIDGEOTTO,17
-Pokemon = RATTATA,15
-Pokemon = SQUIRTLE,18
-#-------------------------------
-[CHAMPION,Blue]
-LoseText = A good battle indeed!
-Pokemon = VENUSAUR,63
-    Item = SITRUSBERRY
-Pokemon = CHARIZARD,63
-    Item = SITRUSBERRY
-Pokemon = BLASTOISE,63
-    Item = SITRUSBERRY
