@@ -3,6 +3,15 @@
 [RIVAL1,Gail,0]
 LoseText = That was fun!
 Pokemon = CHATOT,5
+#-------------------------------
+[RIVAL1,Gail,1]
+LoseText = That was fun!
+Pokemon = TOGEPI,12
+    Moves = METRONOME
+Pokemon = CHATOT,16
+    Moves = CHATTER,HYPERVOICE,SING,GROWL
+Pokemon = BEAUTIFLY,13
+    Moves = GUST,ABSORB,BUGBITE,POISONSTING
 #------------------------------- Route 1 Trainers
 [YOUNGSTER,Pat]
 LoseText = What!!!!! This game is rigged!
@@ -27,7 +36,7 @@ Pokemon = BLIPBUG,5
 Pokemon = SPINARAK,5
 Pokemon = COMBEE,8
 #-------------------------------
-[LASS,Jenny]
+[PICNICKER,Jenny]
 LoseText = Slain...
 Pokemon = FEEBAS,4
 Pokemon = CHERUBI,4
@@ -35,15 +44,15 @@ Pokemon = VULPIX,6
 #-------------------------------
 [YOUNGSTER,Freddy]
 LoseText = Oof...
-Pokemon = ZIGZAGOON,3
+Pokemon = ZIGZAGOON,7
 Pokemon = PANCHAM,8
 #-------------------------------
 [BUGCATCHER,Cole]
-LoseText = Dottler No!!!
+LoseText = DOTTLER NO!!!
 Pokemon = DOTTLER,10
 #------------------------------- Route 2 Trainers
-[BUGCATCHER,Cole]
-LoseText = Dottler No!!!
+[BUGCATCHER,Col]
+LoseText = DOTTLER NO!!!
 Pokemon = DOTTLER,10
 #------------------------------- Eerie Lake Trainers
 [LEADER_Brock,Batya,0]
